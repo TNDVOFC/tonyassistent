@@ -1,0 +1,8 @@
+{
+  "name": "Tony Assistant",
+  "description": "A voice assistant that responds to 'OK Tony'",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
